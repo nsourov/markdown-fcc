@@ -16,7 +16,7 @@ class App extends Component {
   handleChange(e) {
     const { value } = e.target;
     this.setState({
-      markdown: this.markdown(value)
+      markdown: this.markdown(value, {sanitize: true})
     });
   }
   markdown(value){
