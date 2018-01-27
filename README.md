@@ -6,3 +6,7 @@ clone this repo
 cd into that
 run npm start
 ```
+live:
+```
+military-snakes.surge.sh
+```
