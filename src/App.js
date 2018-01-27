@@ -10,7 +10,7 @@ class App extends Component {
     this.handleChange = this.handleChange.bind(this);
     this.markdown = this.markdown.bind(this);
     this.state = {
-      markdown: "test"
+      markdown: ""
     };
   }
   handleChange(e) {
