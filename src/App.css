@@ -1,0 +1,9 @@
+.App {
+  padding: 10px 20px;
+}
+html, body {
+  height: 100%;
+}
+textarea.ant-input {
+  height: 100vh !important;
+}
