@@ -10,3 +10,4 @@ live:
 ```
 military-snakes.surge.sh
 ```
+![screenshot](https://github.com/nsourov/markdown-fcc/blob/master/screencapture-military-snakes-surge-sh-2018-04-21-21_30_49.png)
